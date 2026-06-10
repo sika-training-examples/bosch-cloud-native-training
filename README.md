@@ -23,7 +23,10 @@ Password: `asdfasdf`
 
 ## OpenShift
 
-TODO
+https://console-openshift-console.apps.bosch.germanywestcentral.aroapp.io/
+
+Username: `kubeadmin`
+Password: `rprLs-8NKXx-2zBxf-AggXE`
 
 ## Bosch Example Application
 
